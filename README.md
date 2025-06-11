@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-  <h1 align="center">Sphere Physics</h1>
-=======
+ <img alt="3D Physics" src="/Users/lesz/Documents/Webdev/Physics/3D-Sphere/public/Sphere.jpg">
+ 
   <h1 align="center">3D Sphere</h1>
->>>>>>> 220d441 (Initial Commit)
 </a>
 
 <p align="center">
