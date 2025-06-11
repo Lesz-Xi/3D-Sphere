@@ -1,4 +1,4 @@
- <img alt="3D Physics" src="/Users/lesz/Documents/Webdev/Physics/3D-Sphere/public/Sphere.jpg">
+ <img alt="3D Physics" src="/public/Sphere.jpg">
  
   <h1 align="center">3D Sphere</h1>
 </a>
